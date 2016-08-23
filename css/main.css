@@ -1,19 +1,14 @@
-div{ 
-	padding: 500px;
-	display: inline-block;
-}
-.caja1, .caja2{
-	border: 10px solid yellow;
-}
 .caja1{
-	padding-right: 5px;
-	padding-left: 2px;
-	padding-top: 1px;
-	margin-right: 500px;
+	border: 10px solid yellow;
+	width: 200px;
+	margin-bottom: 15px;
+	padding: 30px;
+	text-align: center;
 }
 .caja2{
-	padding-right: 5px;
-	padding-left: 2px;
-	padding-top: 1px;
-	margin-right: 500px; 
+	border:10px solid yellow;
+	width:200px;
+    padding: 30px;
+    text-align:center;
+    margin-left:500px;
 }
